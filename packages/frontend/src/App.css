@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+.App {
+    background: black;
+    min-height: 100vh;
+    height: 100%;
+    position: relative;
+}
+.App a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-collapse.collapse.show {
+    background: #000000AA;
+    height: 100vh;
+}
+
+@font-face {
+    font-family: 'Oliver';
+    src: url(./assets/fonts/Oliver\ Regular\ 400.otf);
+}
+
+@font-face {
+    font-family: 'Kini';
+    src: url(./assets/fonts/KINIE.TTF);
+}
+@font-face {
+    font-family: 'NightSky';
+    src: url(./assets/fonts/NithgtSky.ttf);
+}
+@font-face {
+    font-family: 'Cheri';
+    src: url(./assets/fonts/CHERI.TTF);
+}
+
+@font-face {
+    font-family: 'American';
+    src: url(./assets/fonts/AMERICAN\ CAPTAIN.OTF);
+}
+
+@font-face {
+    font-family: 'Baloo';
+    src: url(./assets/fonts/Baloo-Regular.ttf);
+}

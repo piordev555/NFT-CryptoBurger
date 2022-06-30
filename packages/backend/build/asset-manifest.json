@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a840fcd7.chunk.css",
+    "main.js": "/static/js/main.932c9bb2.chunk.js",
+    "main.js.map": "/static/js/main.932c9bb2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.40f22f37.js",
+    "runtime-main.js.map": "/static/js/runtime-main.40f22f37.js.map",
+    "static/css/2.b0590297.chunk.css": "/static/css/2.b0590297.chunk.css",
+    "static/js/2.25d3b0d1.chunk.js": "/static/js/2.25d3b0d1.chunk.js",
+    "static/js/2.25d3b0d1.chunk.js.map": "/static/js/2.25d3b0d1.chunk.js.map",
+    "static/js/3.d22ba0a5.chunk.js": "/static/js/3.d22ba0a5.chunk.js",
+    "static/js/3.d22ba0a5.chunk.js.map": "/static/js/3.d22ba0a5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b0590297.chunk.css.map": "/static/css/2.b0590297.chunk.css.map",
+    "static/css/main.a840fcd7.chunk.css.map": "/static/css/main.a840fcd7.chunk.css.map",
+    "static/js/2.25d3b0d1.chunk.js.LICENSE.txt": "/static/js/2.25d3b0d1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Oliver Regular 400.0430b987.otf",
+    "static/media/boxPanel1.5a028c25.png": "/static/media/boxPanel1.5a028c25.png",
+    "static/media/boxPanel2.e47c8707.png": "/static/media/boxPanel2.e47c8707.png",
+    "static/media/boxPanel3.21a7cc4f.png": "/static/media/boxPanel3.21a7cc4f.png",
+    "static/media/logo.22996f3e.svg": "/static/media/logo.22996f3e.svg",
+    "static/media/menu_account.fbc6eeae.png": "/static/media/menu_account.fbc6eeae.png",
+    "static/media/menu_home.7bccabf2.png": "/static/media/menu_home.7bccabf2.png",
+    "static/media/menu_marketplace.b77cda80.png": "/static/media/menu_marketplace.b77cda80.png",
+    "static/media/menu_mint.b4ac736f.png": "/static/media/menu_mint.b4ac736f.png",
+    "static/media/menu_mobile_home.529c6f40.png": "/static/media/menu_mobile_home.529c6f40.png",
+    "static/media/menu_mobile_marketplace.09ad03ce.png": "/static/media/menu_mobile_marketplace.09ad03ce.png",
+    "static/media/menu_mobile_mint.91f8a8a6.png": "/static/media/menu_mobile_mint.91f8a8a6.png",
+    "static/media/menu_mobile_staking.3b7a2f82.png": "/static/media/menu_mobile_staking.3b7a2f82.png",
+    "static/media/menu_staking.1c4e06cc.png": "/static/media/menu_staking.1c4e06cc.png",
+    "static/media/menu_table.9fb656ce.png": "/static/media/menu_table.9fb656ce.png",
+    "static/media/mobile_panel.8d2be25a.png": "/static/media/mobile_panel.8d2be25a.png",
+    "static/media/notifications.css": "/static/media/notification.c5d9251e.ttf",
+    "static/media/trigger.ecfa5049.png": "/static/media/trigger.ecfa5049.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40f22f37.js",
+    "static/css/2.b0590297.chunk.css",
+    "static/js/2.25d3b0d1.chunk.js",
+    "static/css/main.a840fcd7.chunk.css",
+    "static/js/main.932c9bb2.chunk.js"
+  ]
+}

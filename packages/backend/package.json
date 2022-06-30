@@ -1,0 +1,45 @@
+{
+  "name": "@nft-minter/backend",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "npm": "6.14.13",
+    "node": "v14.17.0"
+  },
+  "description": "",
+  "scripts": {
+    "dev": "cross-env ENVIRONMENT=development nodemon src/index.js",
+    "production": "ENVIRONMENT=production node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upload_image": "node src/api/upload_image.js",
+    "calculate_root": "node src/api/calculate_root.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.7",
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "bodymen": "^1.1.1",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "crypto": "^1.0.1",
+    "dotenv-flow": "^3.2.0",
+    "express": "^4.17.1",
+    "express-ws": "^5.0.2",
+    "keccak": "^3.0.2",
+    "keccak256": "^1.0.3",
+    "merkle-patricia-tree": "^4.2.2",
+    "merkletreejs": "^0.2.24",
+    "migrate-mongo": "^8.2.3",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0",
+    "querymen": "^2.1.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

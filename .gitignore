@@ -1,0 +1,7 @@
+node_modules
+packages/frontend/node_modules
+packages/backend/node_modules
+.env
+.env.private
+packages/frontend/.env
+.env.private

@@ -1,0 +1,32 @@
+
+
+
+
+git clone https://CryptoBurgerDev@github.com/trust0212/cryptoburgers-nft
+
+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
+
+
+
+
+
+Hardhat
+npx hardhat compile
+yarn deploy:testnet
+
+npx hardhat verify --network mainnet DEPLOYED_CONTRACT_ADDRESS "Constructor argument 1"
+
+FORK
+npx hardhat node --fork https://speedy-nodes-nyc.moralis.io/63842bcca9982a74b2a9fd41/bsc/mainnet/archive
+
+Backend
+yarn install --ignore-engines
+npm run start
+
+Frontend
+yarn install --ignore-engines
+export SKIP_PREFLIGHT_CHECK=true
+yarn start
+
+Leo
+https://CryptoBurgerDev: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@github.com/trust0212/cryptoburgers-nft
